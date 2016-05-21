@@ -10,6 +10,7 @@ namespace TesteGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Primeira alteração feita no codigo que irá para o github.");
             Console.ReadKey();
         }
     }
